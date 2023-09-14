@@ -6,6 +6,7 @@ package org.bobocode;
  */
 public class App 
 {
+    //asd
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
